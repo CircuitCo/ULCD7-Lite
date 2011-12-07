@@ -1,0 +1,7 @@
+The ULCD7 is designed to provide an 800x480 7” landscape LCD panel with a resistive touchscreen for use with the BeagleBoard-xM.
+
+Following is a short list of the features of the ULCD7 Lite.
+- 7” Landscape LCD panel 800x480
+- Resistive Touch Panel
+- LED backlight with variable intensity
+- BeagleBoard-xM onboard expansion header
